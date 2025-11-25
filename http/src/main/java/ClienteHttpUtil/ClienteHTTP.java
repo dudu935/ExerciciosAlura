@@ -1,4 +1,4 @@
-package ClienteHTTP;
+package ClienteHttpUtil;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
@@ -7,6 +7,7 @@ import java.net.http.HttpClient;
 import java.net.http.HttpResponse;
 
 import com.google.gson.*;
+
 
 import java.util.Scanner;
 

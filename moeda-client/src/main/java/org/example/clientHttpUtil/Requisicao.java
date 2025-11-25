@@ -1,16 +1,14 @@
-package Request;
+package org.example.clientHttpUtil;
 
 import java.net.URI;
+import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 
-public class Requisição {
+public class Requisicao {
     private HttpRequest request;
-
-
-
-    public Requisição(String uri) {
+    public Requisicao(String url) {
         this.request = HttpRequest.newBuilder()
-                .uri(URI.create(uri))
+                .uri(URI.create(url))
                 .GET()
                 .build();
     }
@@ -18,4 +16,5 @@ public class Requisição {
     public HttpRequest getRequest() {
         return request;
     }
+
 }

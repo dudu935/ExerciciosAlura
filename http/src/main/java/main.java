@@ -1,5 +1,5 @@
-import ClienteHTTP.ClienteHTTP;
-import Response.Resposta;
+import ClienteHttpUtil.ClienteHTTP;
+import ClienteHttpUtil.Resposta;
 
 public class main {
 
