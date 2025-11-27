@@ -1,4 +1,4 @@
-package org.example.clientHttpUtil;
+package org.example.DTO;
 
 public record MoedaIdDTO(String id, String symbol, String name) {
 }

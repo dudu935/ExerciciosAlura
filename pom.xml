@@ -16,9 +16,10 @@
     </properties>
 
     <modules>
-        <module>http</module>
-        <module>demo</module>
+        <module>books-client</module>
         <module>moeda-client</module>
+        <module>meal-client</module>
+        <module>exerciciojson</module>
     </modules>
 
     <dependencies>

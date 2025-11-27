@@ -1,0 +1,8 @@
+{
+    "titulo": "Aprendendo Java",
+    "autor": "João da Silva",
+    "editora": {
+        "nome": "Editora Exemplo",
+        "endereco": "Rua das Flores, 123"
+    }
+}
