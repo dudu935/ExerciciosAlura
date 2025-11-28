@@ -21,6 +21,8 @@
         <module>meal-client</module>
         <module>exerciciojson</module>
         <module>exercicioexessaodivisao</module>
+        <module>validador-senha</module>
+        <module>busca-github</module>
     </modules>
 
     <dependencies>
