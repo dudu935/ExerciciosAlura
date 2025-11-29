@@ -23,6 +23,7 @@
         <module>exercicioexessaodivisao</module>
         <module>validador-senha</module>
         <module>busca-github</module>
+        <module>exerciciosescritadedados</module>
     </modules>
 
     <dependencies>
